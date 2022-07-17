@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @leeaaaaaa
 - 👀 I'm currently a nurse who is pursuing a software engineering role
-- 🌱 I’m currently learning HTML/CSS, C#, and Python.
+- 🌱 I’m currently learning HTML/CSS, C#, and Python
+- https://www.codewars.com/users/leeaaaaa
 
 
 <!---
